@@ -83,10 +83,11 @@ header nav ul li{
     row-gap: 1rem;
 }
 
+/* Version dos */
 /* estilos de footer */
 footer{
     text-align: center;
-    color: whitesmoke;
+    color: rgb(46, 150, 164);
     margin-top: 1rem;
 }
 
